@@ -1,0 +1,141 @@
+{
+    "mages": [
+        {
+            "name": "Nook",
+            "uuid": "Noo",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/d/d2/NookPortrait.jpg/revision/latest/scale-to-width-down/200?cb=20210918171557"
+        }
+    ],
+    "nemeses": [
+        {
+            "dificulty": "6",
+            "fight": "3",
+            "name": "The Wailing",
+            "uuid": "The_Wailing",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/2/20/Shattered_Dreams.jpg/revision/latest?cb=20200301035734"
+        }
+    ],
+    "cards": [
+        {
+            "name": "Cache Glass",
+            "uuid": "Cache_Glass",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/0/09/Cache_Glass.jpg/revision/latest/scale-to-width-down/350?cb=20210823180805",
+            "cost": "4",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Olivinite",
+            "uuid": "Olivinite",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/7d/Olivinite.jpg/revision/latest/scale-to-width-down/350?cb=20210823180807",
+            "cost": "3",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Breach Seeker",
+            "uuid": "Breach_Seeker",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/41/Breach_Seeker.jpg/revision/latest/scale-to-width-down/349?cb=20210824135013",
+            "cost": "5",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Crescendo Ray",
+            "uuid": "Crescendo_Ray",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/bf/Crescendo_Ray.jpg/revision/latest/scale-to-width-down/350?cb=20210824135010",
+            "cost": "4",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Embody Flame",
+            "uuid": "Embody_Flame",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/a/ac/Embody_Flame.jpg/revision/latest/scale-to-width-down/350?cb=20210824135013",
+            "cost": "7",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Mantra of Strength",
+            "uuid": "Mantra_of_Strength",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/4b/Mantra_of_Strength.jpg/revision/latest/scale-to-width-down/350?cb=20210824135033",
+            "cost": "3",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Snap Ritual",
+            "uuid": "Snap_Ritual",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/d/df/Snap_Ritual.jpg/revision/latest/scale-to-width-down/350?cb=20210824135033",
+            "cost": "6",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Storm Vapors",
+            "uuid": "Storm_Vapors",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/b9/Storm_Vapors.jpg/revision/latest/scale-to-width-down/350?cb=20210824135033",
+            "cost": "4",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Reflective Conduit",
+            "uuid": "Reflective_Conduit",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/4a/Reflective_Conduit.jpg/revision/latest/scale-to-width-down/350?cb=20210826160534",
+            "cost": "3",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Will Weaver",
+            "uuid": "Will_Weaver",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/e0/Will_Weaver.jpg/revision/latest/scale-to-width-down/350?cb=20210826160553",
+            "cost": "7",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Mazahaedron's Worldheart Shard",
+            "uuid": "Mazahaedron%27s_Worldheart_Shard",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/55/Mazahaedron%27s_Worldheart_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023112",
+            "cost": "0",
+            "type": "Treasured Gem",
+            "is_supply_card": false
+        },
+        {
+            "name": "Phaedraxa's Tourmaline Shard",
+            "uuid": "Phaedraxa%27s_Tourmaline_Shard",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/46/Phaedraxa%27s_Tourmaline_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023142",
+            "cost": "0",
+            "type": "Treasured Gem",
+            "is_supply_card": false
+        },
+        {
+            "name": "Fractured Shell",
+            "uuid": "Fractured_Shell",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/1/10/Fractured_Shell.jpg/revision/latest/scale-to-width-down/350?cb=20210913023109",
+            "cost": "0",
+            "type": "Treasure Level 2",
+            "is_supply_card": false
+        },
+        {
+            "name": "Extra-Dimensional Lens",
+            "uuid": "Extra-Dimensional_Lens",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5c/Extra-Dimensional_Lens.jpg/revision/latest/scale-to-width-down/350?cb=20210913023018",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        },
+        {
+            "name": "Seer's Bracer",
+            "uuid": "Seer%27s_Bracer",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/e7/Seer%27s_Bracer.jpg/revision/latest/scale-to-width-down/350?cb=20210913023143",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        }
+    ],
+    "name": "Shattered Dreams"
+}

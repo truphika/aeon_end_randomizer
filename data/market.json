@@ -1,0 +1,49 @@
+[
+    [
+        {
+            "type": "Gem",
+            "conditions": {
+                "lt_eq": 4
+            }
+        },
+        {
+            "type": "Gem",
+            "conditions": {
+                "eq": 4
+            }
+        },
+        {
+            "type": "Gem"
+        },
+        {
+            "type": "Relic"
+        },
+        {
+            "type": "Relic"
+        },
+        {
+            "type": "Spell",
+            "conditions": {
+                "lt": 5
+            }
+        },
+        {
+            "type": "Spell",
+            "conditions": {
+                "lt": 5
+            }
+        },
+        {
+            "type": "Spell",
+            "conditions": {
+                "gt": 5
+            }
+        },
+        {
+            "type": "Spell",
+            "conditions": {
+                "gt": 5
+            }
+        }
+    ]
+]

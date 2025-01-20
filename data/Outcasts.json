@@ -1,0 +1,437 @@
+{
+    "mages": [
+        {
+            "name": "Arachnos (Outcasts)",
+            "uuid": "Arachnos_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/87/Arachnos_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060252"
+        },
+        {
+            "name": "Dezmodia (Outcasts)",
+            "uuid": "Dezmodia_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/4d/Dezmodia_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060254"
+        },
+        {
+            "name": "Ilya",
+            "uuid": "Ilya",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/a/ac/IlyaPortrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060253"
+        },
+        {
+            "name": "Kel",
+            "uuid": "Kel",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/f/fd/KelPortrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060253"
+        },
+        {
+            "name": "Qu (Outcasts)",
+            "uuid": "Qu_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/2/23/Qu_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060553"
+        },
+        {
+            "name": "Taqren (Outcasts)",
+            "uuid": "Taqren_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/c9/Taqren_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060553"
+        },
+        {
+            "name": "Thraxir",
+            "uuid": "Thraxir",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/f/f2/ThraxirPortrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060554"
+        },
+        {
+            "name": "Z'hana (Outcasts)",
+            "uuid": "Z%27hana_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/cb/Z%27hana_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060551"
+        }
+    ],
+    "nemeses": [
+        {
+            "dificulty": "3",
+            "fight": "1",
+            "name": "Experiment 153",
+            "uuid": "Experiment_153",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/78/Experiment_153_Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20230223212132"
+        },
+        {
+            "dificulty": "8",
+            "fight": "4",
+            "name": "Fountain of Souls",
+            "uuid": "Fountain_of_Souls",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/6/69/Fountain_of_Souls_Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20230223212145"
+        },
+        {
+            "dificulty": "5",
+            "fight": "3",
+            "name": "Risen Thrall",
+            "uuid": "Risen_Thrall",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/3/36/Risen_Thrall_Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20230223212226"
+        },
+        {
+            "dificulty": "4",
+            "fight": "2",
+            "name": "Thief of Dreams",
+            "uuid": "Thief_of_Dreams",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/bd/Thief_of_Dreams_Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20230223212156"
+        }
+    ],
+    "cards": [
+        {
+            "name": "Duplicating Sazite",
+            "uuid": "Duplicating_Sazite",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/2/2d/Duplicating_Sazite.jpg/revision/latest/scale-to-width-down/350?cb=20210831164433",
+            "cost": "6",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Elongated Looq",
+            "uuid": "Elongated_Looq",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/44/Elongated_Looq.jpg/revision/latest/scale-to-width-down/350?cb=20210831164434",
+            "cost": "4",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Galvanized Sapphire",
+            "uuid": "Galvanized_Sapphire",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/ca/Galvanized_Sapphire.jpg/revision/latest/scale-to-width-down/350?cb=20210831164436",
+            "cost": "4",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Helix of Amber",
+            "uuid": "Helix_of_Amber",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/b9/Helix_of_Amber.jpg/revision/latest/scale-to-width-down/350?cb=20210831164436",
+            "cost": "3",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Molten Peridot",
+            "uuid": "Molten_Peridot",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/6/64/Molten_Peridot.jpg/revision/latest/scale-to-width-down/350?cb=20210831164436",
+            "cost": "3",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Petrified Phoenixium",
+            "uuid": "Petrified_Phoenixium",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/f/f8/Petrified_Phoenixium.jpg/revision/latest/scale-to-width-down/350?cb=20210831164436",
+            "cost": "4",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Soulfire",
+            "uuid": "Soulfire",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/0/0a/Soulfire.jpg/revision/latest/scale-to-width-down/350?cb=20210831164437",
+            "cost": "3",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Unstable Pyrite",
+            "uuid": "Unstable_Pyrite",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/6/6a/Unstable_Pyrite.jpg/revision/latest/scale-to-width-down/350?cb=20210831164437",
+            "cost": "2",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Vigorous Sunstone",
+            "uuid": "Vigorous_Sunstone",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/f/f8/Vigorous_Sunstone.jpg/revision/latest/scale-to-width-down/350?cb=20210831164437",
+            "cost": "5",
+            "type": "Gem",
+            "is_supply_card": true
+        },
+        {
+            "name": "Arcane Relay",
+            "uuid": "Arcane_Relay",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/4a/Arcane_Relay.jpg/revision/latest/scale-to-width-down/350?cb=20210911051653",
+            "cost": "8",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Dizzying Burst",
+            "uuid": "Dizzying_Burst",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/a/a6/Dizzying_Burst.jpg/revision/latest/scale-to-width-down/350?cb=20210911051729",
+            "cost": "8",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Fortified Frost",
+            "uuid": "Fortified_Frost",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/1/14/Fortified_Frost.jpg/revision/latest/scale-to-width-down/350?cb=20210911051728",
+            "cost": "2",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Gathered Will",
+            "uuid": "Gathered_Will",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/b2/Gathered_Will.jpg/revision/latest/scale-to-width-down/350?cb=20210911051729",
+            "cost": "5",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Hasted Intellect",
+            "uuid": "Hasted_Intellect",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/76/Hasted_Intellect.jpg/revision/latest/scale-to-width-down/350?cb=20210911051729",
+            "cost": "6",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Infused Ignition",
+            "uuid": "Infused_Ignition",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/76/Infused_Ignition.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "4",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Lightning Arrow",
+            "uuid": "Lightning_Arro",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/4f/Lightning_Arrow.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "5",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Paired Storm",
+            "uuid": "Paired_Storm",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/2/28/Paired_Storm.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "3",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Radiant Conflux",
+            "uuid": "Radiant_Conflux",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/c5/Radiant_Conflux.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "5",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Shattering Bolt",
+            "uuid": "Shattering_Bolt",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/a/a6/Shattering_Bolt.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "4",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Swarm of Flame",
+            "uuid": "Swarm_of_Flame",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/eb/Swarm_of_Flame.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "6",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Tornado of Insight",
+            "uuid": "Tornado_of_Insight",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/0/04/Tornado_of_Insight.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "6",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Twisted Fang",
+            "uuid": "Twisted_Fang",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/0/09/Twisted_Fang.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "4",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Unstable Rift",
+            "uuid": "Unstable_Rift",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/3/3b/Unstable_Rift.jpg/revision/latest/scale-to-width-down/350?cb=20210911051730",
+            "cost": "5",
+            "type": "Spell",
+            "is_supply_card": true
+        },
+        {
+            "name": "Bottled Sun",
+            "uuid": "Bottled_Sun",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/1/1d/Bottled_Sun.jpg/revision/latest/scale-to-width-down/350?cb=20210903021729",
+            "cost": "6",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Carnivorous Roox",
+            "uuid": "Carnivorous_Roox",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/9a/Carnivorous_Roox.jpg/revision/latest/scale-to-width-down/350?cb=20210903021729",
+            "cost": "3",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Chain of Retrieval",
+            "uuid": "Chain_of_Retrieval",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/0/0c/Chain_of_Retrieval.jpg/revision/latest/scale-to-width-down/350?cb=20210903021727",
+            "cost": "4",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Destiny Forger",
+            "uuid": "Destiny_Forger",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/95/Destiny_Forger.jpg/revision/latest/scale-to-width-down/350?cb=20210903021727",
+            "cost": "4",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Orb of the Deep",
+            "uuid": "Orb_of_the_Deep",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/8f/Orb_of_the_Deep.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "cost": "2",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Reconstituting Circuit",
+            "uuid": "Reconstituting_Circuit",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/b4/Reconstituting_Circuit.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "cost": "3",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Rift Dagger",
+            "uuid": "Rift_Dagger",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/f/f4/Rift_Dagger.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "cost": "3",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Transmuter's Lens",
+            "uuid": "Transmuter%27s_Lens",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/97/Transmuter%27s_Lens.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "cost": "5",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Unhinged Vortex",
+            "uuid": "Unhinged_Vortex",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5b/Unhinged_Vortex.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "cost": "7",
+            "type": "Relic",
+            "is_supply_card": true
+        },
+        {
+            "name": "Lost's Forged Spark",
+            "uuid": "Lost%27s_Forged_Spar",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/ed/Lost%27s_Forged_Spark.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
+            "cost": "0",
+            "type": "Treasured Spell",
+            "is_supply_card": false
+        },
+        {
+            "name": "Mazra's Thesis",
+            "uuid": "Mazra%27s_Thesis",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/8b/Mazra%27s_Thesis.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
+            "cost": "0",
+            "type": "Treasured Spell",
+            "is_supply_card": false
+        },
+        {
+            "name": "Razra's Training Whistle",
+            "uuid": "Razra%27s_Training_Whistle",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5a/Razra%27s_Training_Whistle.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "cost": "0",
+            "type": "Treasured Gem",
+            "is_supply_card": false
+        },
+        {
+            "name": "Rhia's Planar Pocket",
+            "uuid": "Rhia%27s_Planar_Pocket",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/91/Rhia%27s_Planar_Pocket.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "cost": "0",
+            "type": "Treasured Gem",
+            "is_supply_card": false
+        },
+        {
+            "name": "Talix's Everburn",
+            "uuid": "Talix%27s_Everburn",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/87/Talix%27s_Everburn.jpg/revision/latest/scale-to-width-down/350?cb=20210917172246",
+            "cost": "0",
+            "type": "Treasured Gem",
+            "is_supply_card": false
+        },
+        {
+            "name": "Broken Tooth",
+            "uuid": "Broken_Tooth",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/58/Broken_Tooth.jpg/revision/latest/scale-to-width-down/350?cb=20210917172211",
+            "cost": "0",
+            "type": "Treasure Level 2",
+            "is_supply_card": false
+        },
+        {
+            "name": "Poison Heart",
+            "uuid": "Poison_Heart",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/2/2e/Poison_Heart.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "cost": "0",
+            "type": "Treasure Level 2",
+            "is_supply_card": false
+        },
+        {
+            "name": "Rejuvenating Diamond",
+            "uuid": "Rejuvenating_Diamond",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/b/bb/Rejuvenating_Diamond.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "cost": "0",
+            "type": "Treasure Level 2",
+            "is_supply_card": false
+        },
+        {
+            "name": "Armored Pauldrons",
+            "uuid": "Armored_Pauldrons",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/e9/Armored_Pauldrons.jpg/revision/latest/scale-to-width-down/350?cb=20210917172210",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        },
+        {
+            "name": "Bloodshot Geode",
+            "uuid": "Bloodshot_Geode",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/78/Bloodshot_Geode.jpg/revision/latest/scale-to-width-down/350?cb=20210917172211",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        },
+        {
+            "name": "Rebound Gauntlet",
+            "uuid": "Rebound_Gauntlet",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/ca/Rebound_Gauntlet.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        },
+        {
+            "name": "Treasured Stone",
+            "uuid": "Treasured_Stone",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5b/Treasured_Stone.jpg/revision/latest/scale-to-width-down/350?cb=20210918065631",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        },
+        {
+            "name": "World Marble",
+            "uuid": "World_Marble",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/7/75/World_Marble.jpg/revision/latest/scale-to-width-down/350?cb=20210917172246",
+            "cost": "0",
+            "type": "Treasure Level 3",
+            "is_supply_card": false
+        }
+    ],
+    "name": "Outcasts"
+}
