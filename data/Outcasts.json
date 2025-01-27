@@ -37,8 +37,8 @@
         },
         {
             "name": "Z'hana (Outcasts)",
-            "uuid": "Z%27hana_(Outcasts)",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/cb/Z%27hana_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060551"
+            "uuid": "Z'hana_(Outcasts)",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/c/cb/Z'hana_%28Outcasts%29Portrait.jpg/revision/latest/scale-to-width-down/200?cb=20210930060551"
         }
     ],
     "nemeses": [
@@ -126,7 +126,7 @@
             "img": "https://static.wikia.nocookie.net/aeonsend/images/0/0a/Soulfire.jpg/revision/latest/scale-to-width-down/350?cb=20210831164437",
             "cost": "3",
             "type": "Gem",
-            "is_supply_card": true
+            "is_supply_card": false
         },
         {
             "name": "Unstable Pyrite",
@@ -314,8 +314,8 @@
         },
         {
             "name": "Transmuter's Lens",
-            "uuid": "Transmuter%27s_Lens",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/97/Transmuter%27s_Lens.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
+            "uuid": "Transmuter's_Lens",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/97/Transmuter's_Lens.jpg/revision/latest/scale-to-width-down/350?cb=20210903021728",
             "cost": "5",
             "type": "Relic",
             "is_supply_card": true
@@ -330,42 +330,42 @@
         },
         {
             "name": "Lost's Forged Spark",
-            "uuid": "Lost%27s_Forged_Spar",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/ed/Lost%27s_Forged_Spark.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
+            "uuid": "Lost's_Forged_Spar",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/ed/Lost's_Forged_Spark.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
             "cost": "0",
-            "type": "Treasured Spell",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
             "name": "Mazra's Thesis",
-            "uuid": "Mazra%27s_Thesis",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/8b/Mazra%27s_Thesis.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
+            "uuid": "Mazra's_Thesis",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/8b/Mazra's_Thesis.jpg/revision/latest/scale-to-width-down/350?cb=20210917172224",
             "cost": "0",
-            "type": "Treasured Spell",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
             "name": "Razra's Training Whistle",
-            "uuid": "Razra%27s_Training_Whistle",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5a/Razra%27s_Training_Whistle.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "uuid": "Razra's_Training_Whistle",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/5a/Razra's_Training_Whistle.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
             "cost": "0",
-            "type": "Treasured Gem",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
             "name": "Rhia's Planar Pocket",
-            "uuid": "Rhia%27s_Planar_Pocket",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/91/Rhia%27s_Planar_Pocket.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
+            "uuid": "Rhia's_Planar_Pocket",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/9/91/Rhia's_Planar_Pocket.jpg/revision/latest/scale-to-width-down/350?cb=20210917172225",
             "cost": "0",
-            "type": "Treasured Gem",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
             "name": "Talix's Everburn",
-            "uuid": "Talix%27s_Everburn",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/87/Talix%27s_Everburn.jpg/revision/latest/scale-to-width-down/350?cb=20210917172246",
+            "uuid": "Talix's_Everburn",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/8/87/Talix's_Everburn.jpg/revision/latest/scale-to-width-down/350?cb=20210917172246",
             "cost": "0",
-            "type": "Treasured Gem",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {

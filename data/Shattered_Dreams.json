@@ -98,18 +98,18 @@
         },
         {
             "name": "Mazahaedron's Worldheart Shard",
-            "uuid": "Mazahaedron%27s_Worldheart_Shard",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/55/Mazahaedron%27s_Worldheart_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023112",
+            "uuid": "Mazahaedron's_Worldheart_Shard",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/5/55/Mazahaedron's_Worldheart_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023112",
             "cost": "0",
-            "type": "Treasured Gem",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
             "name": "Phaedraxa's Tourmaline Shard",
-            "uuid": "Phaedraxa%27s_Tourmaline_Shard",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/46/Phaedraxa%27s_Tourmaline_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023142",
+            "uuid": "Phaedraxa's_Tourmaline_Shard",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/4/46/Phaedraxa's_Tourmaline_Shard.jpg/revision/latest/scale-to-width-down/350?cb=20210913023142",
             "cost": "0",
-            "type": "Treasured Gem",
+            "type": "Treasure Level 1",
             "is_supply_card": false
         },
         {
@@ -130,8 +130,8 @@
         },
         {
             "name": "Seer's Bracer",
-            "uuid": "Seer%27s_Bracer",
-            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/e7/Seer%27s_Bracer.jpg/revision/latest/scale-to-width-down/350?cb=20210913023143",
+            "uuid": "Seer's_Bracer",
+            "img": "https://static.wikia.nocookie.net/aeonsend/images/e/e7/Seer's_Bracer.jpg/revision/latest/scale-to-width-down/350?cb=20210913023143",
             "cost": "0",
             "type": "Treasure Level 3",
             "is_supply_card": false
